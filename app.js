@@ -128,6 +128,6 @@ function fetchData(){
     });
 
   }
-setInterval(() => {
-  fetchData()    
-}, 1000*30);
+// setInterval(() => {
+//   fetchData()    
+// }, 1000*30);
